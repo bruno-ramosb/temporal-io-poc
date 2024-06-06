@@ -10,7 +10,7 @@ For more information, visit the [Temporal documentation](https://docs.temporal.i
 ## Requisitos
 É necessário docker e docker-compose para rodar a aplicação.
 
-## Running the Application
+## Executando a aplicação
 Na raiz do projeto executar o comando:
 ```shell
 docker-compose up --build -d
